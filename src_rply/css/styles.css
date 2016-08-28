@@ -1,0 +1,33 @@
+.col-4{
+  background-color: cyan;
+  height: :500px;
+  margin-top: :130px;
+}
+.col-8{
+  background-color: yellow;
+  height: :500px;
+    margin-top: :130px;
+}
+.container{
+  background: pink;
+}
+.col-8 p{
+  height:75.5px;
+  text-align: center;
+}
+.col-4 button{
+  height: 50px;
+  margin-top: 7px;
+}
+/*table,td {
+    border: 1px solid black;
+}*/
+
+#leftbutton{
+
+  margin-top: 30px;
+}
+#gmail h2{
+  color: #C70039;
+
+}
